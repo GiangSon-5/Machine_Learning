@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+data/
+output/
+
+venv/
+.env/
+
+*.log
+
+*.tmp
+*.swp
